@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
+  
 ✨ My introduction ✨
 
 안녕하세요! 프론트엔트를 공부하고 있는 박근영입니다. :)
@@ -25,7 +25,15 @@ Here are some ideas to get you started:
 
 📒 Learning Skills
 
+👯 Hobby
+
+🤔 Interesting
+
 ✨ My resolution ✨
 
 사용자의 의견을 중시하며, 모두가 쉽게 적응할 수 있는 디자인을 만들어내고 싶습니다.
 앞으로 잘 부탁드립니다!
+
+💬 contact
+
+1pgyjkl@gmail.com
