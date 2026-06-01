@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 안녕하세요! 프론트엔트를 공부하고 있는 박근영입니다. :)
 아직 모르는 부분이 많지만 차근차근 배워나가고 싶습니다.
 
-✨ Skills ✨
+✏️ Skills
 
-✨ Learning Skills ✨
+📒 Learning Skills
 
 ✨ My resolution ✨
 
