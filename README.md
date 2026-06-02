@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 
 👯 Hobby
 
-:headphones: :tv: :books:
+:headphones: 음악 감상
+
+:tv: 애니&드라마 시청
+
+:books: 독서(다시 습관 들이는 중...)
 
 🤔 Interesting
 
