@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-✨ My introduction ✨
+## ✨ My introduction ✨
 <br> <br>
 안녕하세요! 프론트엔트를 공부하고 있는 박근영입니다. :)
 아직 모르는 부분이 많지만 차근차근 배워나가고 싶습니다.
 <br> <br>
 
-✏️ Skills
+## ✏️ Skills
 
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white"/>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=AdobeAfterEffects&logoColor=white"/>
 
 <br> <br>
-📒 Learning Skills
+## 📒 Learning Skills
 
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" />
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
 
 <br> <br>
-👯 Hobby
+## 👯 Hobby
 
 :headphones: 음악 감상
 
@@ -47,17 +47,17 @@ Here are some ideas to get you started:
 :books: 독서(다시 습관 들이는 중...)
 <br> <br>
 
-🤔 Interesting
+## 🤔 Interesting
 
 영상편집, 디자인, 야구, 번역
 <br> <br>
 
-✨ My resolution ✨
+## ✨ My resolution ✨
 
 사용자의 의견을 중시하며, 모두가 쉽게 적응할 수 있는 디자인을 만들어내고 싶습니다.
 앞으로 잘 부탁드립니다!
 <br> <br>
 
-💬 contact
+## 💬 contact
 
 1pgyjkl@gmail.com
