@@ -27,7 +27,11 @@ Here are some ideas to get you started:
 
 👯 Hobby
 
+:headphones: :tv: :books:
+
 🤔 Interesting
+
+영상편집, 디자인, 야구, 번역
 
 ✨ My resolution ✨
 
