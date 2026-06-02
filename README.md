@@ -23,7 +23,17 @@ Here are some ideas to get you started:
 
 ✏️ Skills
 
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=AdobePhotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=AdobeIllustrator&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=AdobePremierePro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=AdobeAfterEffects&logoColor=white"/>
+
 📒 Learning Skills
+
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=TailwindCSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"/>
 
 👯 Hobby
 
